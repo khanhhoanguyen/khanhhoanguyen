@@ -12,7 +12,7 @@
     <img src ="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
                </a>
   </a>
-  <a href="discordapp.com/users/335068281188777986">
+  <a href="discordapp.com/users/591134040967479298">
     <img src ="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
                </a>
           </p>
