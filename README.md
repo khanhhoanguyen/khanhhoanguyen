@@ -5,7 +5,7 @@
 </p>
 <h3>Contact Me</h3>
 <p>
- <a href="https://www.facebook.com/phan.thanhtrung.1409/](https://www.facebook.com/profile.php?id=100027334874954)">
+ <a href="https://www.facebook.com/profile.php?id=100027334874954">
           <img src ="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/trung-phan-9a588b226/">
