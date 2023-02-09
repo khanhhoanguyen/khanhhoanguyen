@@ -5,7 +5,7 @@
 </p>
 <h3>Contact Me</h3>
 <p>
- <a href="https://www.facebook.com/profile.php?id=100027334874954" target="_blank">
+ <a href="https://www.facebook.com/khanhhoanguyen.2703/">
           <img src ="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/hoa-nguyen-94175522a/">
